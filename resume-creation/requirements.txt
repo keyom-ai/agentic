@@ -1,0 +1,7 @@
+streamlit
+crewai==0.28.8
+langchain
+wikipedia
+google-search-results
+docx2txt
+PyPDF2
